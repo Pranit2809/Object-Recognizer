@@ -1,0 +1,12 @@
+body{
+    background: linear-gradient(180deg, rgba(255,77,253,1) 23%, rgba(174,255,193,1) 71%);
+}
+#title{
+    font-family: 'Bebas Neue', cursive;
+    width: 200px;
+    font-size: 30px;
+}
+#objects{
+    font-size: 22;
+    font-family: 'Comfortaa', cursive;
+}
